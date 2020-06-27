@@ -38,7 +38,7 @@ main {
   max-width: 1440px;
 
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 300px 1fr;
   align-items: flex-end;
   justify-content: center;
 
