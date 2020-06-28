@@ -10,8 +10,6 @@
   padding: 0;
   outline: none;
   box-sizing: border-box;
-
-  
 }
 
 html {
@@ -115,12 +113,12 @@ main .content-storage {
 }
 
 .content-storage .ballon p {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .content-storage .ballon p span {
-  font-weight: bolder;
-  font-size: 20px;
+  font-weight: 700;
+  font-size: 22px;
 }
 
 .content-storage .info {
@@ -129,6 +127,10 @@ main .content-storage {
   flex-direction: column;
   justify-content: space-evenly;
   font-size: 14px;
+}
+
+.content-storage .info p span {
+  font-weight: 700;
 }
 
 .content-storage .info .bar {
@@ -181,8 +183,6 @@ main .content-storage {
   color: hsl(228, 45%, 44%);
 }
 
-
-
 /* MOBILE */
 
 @media (max-width: 768px) {
@@ -192,15 +192,17 @@ main .content-storage {
     background-size: cover;
     background-position: initial;
   }
-  
-  
+
   main {
-    
     grid-template-columns: none;
   }
 
   main .content-storage {
     width: 300px;
+  }
+
+  .content-storage .info p {
+    text-align: center;
   }
 
   .content-storage .ballon {
@@ -212,11 +214,11 @@ main .content-storage {
   }
 
   .content-storage .ballon:after {
-    border: none
+    border: none;
   }
 
-  .attribution{
-    top: 10rem
+  .attribution {
+    top: 10rem;
   }
 
 }
