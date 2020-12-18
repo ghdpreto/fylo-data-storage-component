@@ -2,7 +2,7 @@
 
 ![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
 
-Link teste: [Acesse e veja funcionando](https://fylo-data-storage-component-seven-rho.vercel.app/)
+[Acesse e veja funcionando](https://fylo-data-storage-component-seven-rho.vercel.app/)
 
 ## Welcome! 👋
 
