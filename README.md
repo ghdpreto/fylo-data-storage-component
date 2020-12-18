@@ -2,8 +2,6 @@
 
 ![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
 
-[Acesse e veja funcionando](https://fylo-data-storage-component-seven-rho.vercel.app/)
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -11,6 +9,8 @@ Thanks for checking out this front-end coding challenge.
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
+
+[See it working](https://fylo-data-storage-component-seven-rho.vercel.app/)
 
 ## The challenge
 
